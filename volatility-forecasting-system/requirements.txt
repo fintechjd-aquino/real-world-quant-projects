@@ -1,7 +1,8 @@
+For **requirements.txt**, put:
+
+```text
 pandas
 numpy
-yfinance
 matplotlib
+yfinance
 scikit-learn
-statsmodels
-arch
