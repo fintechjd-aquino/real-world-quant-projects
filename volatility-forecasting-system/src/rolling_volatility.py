@@ -27,4 +27,5 @@ data["rolling_volatility"].plot(
 
 plt.xlabel("Date")
 plt.ylabel("Volatility")
+plt.savefig("outputs/rolling_volatility.png")
 plt.show()
